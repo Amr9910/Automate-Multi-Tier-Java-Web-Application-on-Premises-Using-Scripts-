@@ -1,5 +1,5 @@
 # Automate-Multi-Tier-Java-Web-Application-on-Premises-Using-Scripts-
-utomated Multi-Tier Java Web Application Deployment. This project uses reusable shell scripts to provision and configure a complete multi-tier environment on local infrastructure. It sets up essential components including a database server (MySQL), application server (Tomcat), web server (Nginx), and optional caching layer, ensuring faster, consistent, and error-free deployments while demonstrating practical DevOps automation practices.
+Automated Multi-Tier Java Web Application Deployment. This project uses reusable shell scripts to provision and configure a complete multi-tier environment on local infrastructure. It sets up essential components including a database server (MySQL), application server (Tomcat), web server (Nginx), and optional caching layer, ensuring faster, consistent, and error-free deployments while demonstrating practical DevOps automation practices.
 
 # What tools will we use in the project?
 
@@ -30,14 +30,7 @@ Services
 #4 Create a ShellScript file for APP in clude ( tomcat , nginx )
 
 # After writing the scripts
- we will write a vagrantfile, which should be like this, and we will put in it all the VM that we will create, and we will also make a private network and connect the VM to each other and introduce them 
-
-
-
- # After all these steps, type inside the cmd in its own path 
-
-
-# The problems I faced and then solved them 
+ we will write a vagrantfile, which should be like this, and we will put in it all the VM that we will create, and we will also make a private network and connect the VM to each other and introduce the
 
  
 What we learn from Scripts ?
