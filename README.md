@@ -1,6 +1,9 @@
 # Automate-Multi-Tier-Java-Web-Application-on-Premises-Using-Scripts-
 Automated Multi-Tier Java Web Application Deployment. This project uses reusable shell scripts to provision and configure a complete multi-tier environment on local infrastructure. It sets up essential components including a database server (MySQL), application server (Tomcat), web server (Nginx), and optional caching layer, ensuring faster, consistent, and error-free deployments while demonstrating practical DevOps automation practices.
 
+<img width="1051" height="610" alt="image" src="https://github.com/user-attachments/assets/35c699be-45b3-4ab0-b1f8-db14b3b3e592" />
+
+
 # What tools will we use in the project?
 
 # Prerequisite
